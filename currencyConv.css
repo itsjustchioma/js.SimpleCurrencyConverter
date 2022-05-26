@@ -1,0 +1,27 @@
+html{
+    font-size: 62.5%;
+}
+
+ h2{
+    font-size: 1.5rem;
+}
+
+p{
+    font-size: 1.25rem;
+}
+
+.container{
+    border: 2px solid black;
+    margin: 10%;
+    width: 30%;
+    padding: 20px;
+    background-color: lavenderblush;
+}
+select{
+    height: 21.5px;
+    font-size: 1rem;
+}
+
+input{
+    width:40% ;
+}
